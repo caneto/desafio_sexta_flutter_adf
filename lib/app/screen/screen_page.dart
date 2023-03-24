@@ -1,4 +1,3 @@
-import 'package:desafio_flutter_adf/app/core/extensions/context_extension.dart';
 import 'package:desafio_flutter_adf/app/core/styles/colors_app.dart';
 import 'package:flutter/material.dart';
 
