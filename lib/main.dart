@@ -1,4 +1,5 @@
 import 'package:desafio_flutter_adf/app/screen/screen_page.dart';
+import 'package:desafio_flutter_adf/app/screen/screen_page_ranam.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const ScreenPage(),
+      home: const ScreenPageRanam(),
     );
   }
 }
